@@ -1,0 +1,13 @@
+h1 {
+    color: green;
+}
+#list1 { color: blue; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 20px;
+}
+
+#list2 { color: aqua; text-align: center; line-height: 100px;
+}
+#list3 { color: blueviolet; font-weight: 900; font-style: italic;
+}
+#code { color: red;
+}
+
